@@ -1,0 +1,5 @@
+document = open("L200183103", "w")
+document.write("L200183103" + "\n")
+document.write("02-07-2000" + "\n")
+document.write("Luckyta Afia Susanto")
+document.close()
