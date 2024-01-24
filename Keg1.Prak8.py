@@ -1,10 +1,10 @@
 personaldata = {"Name" : "Luckyta Afia Susanto",
                 "NIM" : "L200183103",
-                "Address" : "Perum Gedangan Permai, Sektor 9, Solo Baru",
+                "Address" : "-",
                 "Majors" : "Double Degree of Informatics Engineering",
                 "Faculty" : "FKI",
-                "Religion" : "Islam",
-                "Hobby" : "Listening to music"}
+                "Religion" : "-",
+                "Hobby" : "-"}
 def Name():
     print (personaldata["Name"])
 def NIM():
