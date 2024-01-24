@@ -2,9 +2,9 @@ Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Inte
 Type "copyright", "credits" or "license()" for more information.
 >>> Name = 'Luckyta Afia Susanto'
 >>> NIM = 103
->>> High = 1.60
->>> Weight = 45
->>> YearOfBirth = 2000
+>>> High = -
+>>> Weight = -
+>>> YearOfBirth = -
 >>> I = (YearOfBirth, Weight, High, NIM, Name)
 >>> Data = [YearOfBirth, Weight, High, NIM, Name]
 >>> type (I)
@@ -44,7 +44,7 @@ NameError: name 'Aku' is not defined
 'kyt'
 >>> ##because Data [4][a:6] is the value from index to 'a' (which means 2nd index) until to the limit 5th index in the variable 'Data' at the 4th index which is refers to 'kyt' 
 >>> Data[0] = 'ok'; Data
-['ok', 45, 1.6, 103, 'Luckyta Afia Susanto']
+['ok', 0, 0, 103, 'Luckyta Afia Susanto']
 >>> ##because to change index 0 of the list of 'Data' that is 'YearOfBirth' into 'ok'
 >>> Data[-a]
 1.6
